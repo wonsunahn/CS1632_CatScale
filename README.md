@@ -1,6 +1,6 @@
 - [CS 1632 - Software Quality Assurance](#cs-1632---software-quality-assurance)
   * [Description](#description)
-  * [Test Application: GoatGoatCar](#test-application-goatgoatcar)
+  * [Test Application: CatScale](#test-application-catscale)
   * [Creating a Test Plan](#creating-a-test-plan)
   * [Creating a Traceability Matrix](#creating-a-traceability-matrix)
   * [Reporting Defects](#reporting-defects)
@@ -32,16 +32,16 @@ Tracking System](#github-bug-tracking-system) section.
 ## Test Application: CatScale
 
 CatScale is a simple Java application that tells you whether your cat is
-overweight, underweight, or just right.  Feel free to do some **exploratory
-testing** to get a feel for the application.  The application is provided in
-the form of a JAR file without source code, so you will be doing **black box
-testing**.  You can run the program using the following commandline:
+overweight, underweight, or just right.  The application is provided in the
+form of a JAR file (CatScale.jar) without the source code, so you will be doing
+**black box testing**.  You can run the program using the following
+commandline:
 
 ```
 java -jar CatScale.jar
 ```
 
-GoatGoatCar.jar is available in this directory.  
+Feel free to do some **exploratory testing** to get a feel for the application.  
 
 ## Creating a Test Plan
 
@@ -150,7 +150,7 @@ bug even if you reproduce the steps if you start from a different precondition! 
   REPRODUCTION STEPS:
      Preconditions:
      - "java -version" shows java version "11.0.21".
-     - GoatGoatCar.jar file is in the current directory.
+     - CatScale.jar file is in the current directory.
      Steps:
      1. ...
      2. ...
@@ -168,14 +168,7 @@ output or webpage are highly encouraged since that is the best way to convey
 what you see.  If your application crashed, don't just say it crashed --- that
 is not going to be very helpful.  Include all the output the program displayed
 while crashing, for example an exception stack trace if you are testing a Java
-program.  A common misconception is: "I have included all the reproduction
-steps so the developer can test for him/herself so I can be lazy about
-describing observed behavior."  You cannot assume that the developer will
-easily be able to reproduce the defect.  There are a myriad of things that
-could go wrong: 1) You may have missed an important precondition in your
-report, or 2) You may not have described the reproduction steps in enough
-detail (note that sometimes even timing of input is important), or 3) The
-program may be a nondeterministic program that has some internal randomness.
+program.  
 
 ### GitHub Bug Tracking System
 
