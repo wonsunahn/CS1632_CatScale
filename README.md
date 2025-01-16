@@ -13,7 +13,7 @@ Spring Semester 2025 - Exercise 1
 
 * DUE: January 23 (Thursday), 2025 before start of class
 
-**GitHub Classroom Link:** https://classroom.github.com/a/cilKN6b0
+**GitHub Classroom Link:** TBD
 
 # Description
 
