@@ -7,7 +7,6 @@
     + [Components of a Defect Report](#components-of-a-defect-report)
     + [GitHub Bug Tracking System](#github-bug-tracking-system)
   * [Submission](#submission)
-  * [Extra Credit](#extra-credit)
 
 # CS 1632 - Software Quality Assurance
 Spring Semester 2025 - Exercise 1
