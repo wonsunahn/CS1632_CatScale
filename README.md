@@ -67,7 +67,7 @@ be categorized as such in the report.
 Please use the following template for test cases:
 
 ```
-IDENTIFIER: [A unique label (e.g. TEST-PROMPT-NAME)]
+IDENTIFIER: [A unique label (e.g. TEST-INVALID-NAME-20-ALPHABETS)]
 TEST CASE: [A description of what this test case is testing]
 PRECONDITIONS: [State of the system before performing execution steps]
 EXECUTION STEPS: [Step-by-step numbered instructions on how to perform test]
@@ -131,7 +131,7 @@ Please find **at least three defects** and report them through the GitHub issues
 Please use the following template for defects reporting:
 
 ```
-IDENTIFIER: [A unique number or string (e.g. BUG-ARGS-NUMBER-FIVE-ARGS)]
+IDENTIFIER: [A unique label (e.g. BUG-DISPLAY-VERDICT)]
 SUMMARY: [A one sentence description of defect]
 DESCRIPTION: [A detailed description of everything the tester discovered]
 REPRODUCTION STEPS: [Preconditions + Steps to reproduce (similar to test case execution steps)]
