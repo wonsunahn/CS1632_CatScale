@@ -9,11 +9,11 @@
   * [Submission](#submission)
 
 # CS 1632 - Software Quality Assurance
-Spring Semester 2025 - Exercise 1
+Summer Semester 2025 - Exercise 1
 
-* DUE: January 23 (Thursday), 2025 before start of class
+* DUE: July 3 (Thursday), 2025 before start of class
 
-**GitHub Classroom Link:** https://classroom.github.com/a/gkZNVl6n
+**GitHub Classroom Link:** TBD
 
 # Description
 
@@ -45,7 +45,7 @@ Feel free to do some **exploratory testing** to get a feel for the application.
 ## Creating a Test Plan
 
 Please beware of the **pitfalls** mentioned in the [Test Plans
-Lecture](https://github.com/wonsunahn/CS1632_Spring2025/blob/main/lectures/CS1632_Lecture4_Test_Plans.pdf).
+Lecture](https://github.com/wonsunahn/CS1632_Summer2025/blob/main/lectures/CS1632_Lecture4_Test_Plans.pdf).
 
 Create a test plan based on the [requirements](requirements.md).  How many test
 cases do you need?  Enough to satisfy the following requirements (no pun intended).
